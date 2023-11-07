@@ -355,9 +355,10 @@ Lastly, prediction error measures the deviation of the system's state from an in
 
 The key signatures of active time - increased quantum entanglement, greater unpredictability, and more complex system dynamics - are clearly observable by contrasting the two simulation results. The Python code provides a flexible platform to further explore the consequences of modeling time as an active participant by tweaking parameters and analyzing the outputs. These initial results lend credence to the postulates of the Active Time Hypothesis and motivate more sophisticated quantum simulations to fully investigate the tantalizing possibilities revealed by ATH's novel conceptualization of time.
 
-![1](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/3b4a4ca9-310f-44a1-9d10-1bad2278de2b)
-![2](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/8fa92bf5-72ab-46ef-8b8b-f90a83f56949)
-![3](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/297e2883-923f-43d2-8e1d-54e377134419)
+![1](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/9db7f939-a4b8-4550-9469-eb72a9fd3881)
+![2](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/1a3fc3d0-a88d-4974-b18d-d97538576862)
+![3](https://github.com/maherabdelsamie/Active-Time-Hypothesis2/assets/73538221/8b32b107-2eca-47ca-a969-d533ec93b213)
+
 
 ---
 
