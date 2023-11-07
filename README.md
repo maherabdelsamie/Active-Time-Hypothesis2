@@ -2,6 +2,7 @@
 
 Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
+
 ## Abstract
 **Background**: The Active Time Hypothesis (ATH) proposes a radical reimagining of time as an energetic agent with intrinsic generative, directive, and adaptive capabilities. This departs from the conventional view of time as a passive background.
 
@@ -12,6 +13,7 @@ Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 **Results**: Running the simulation with and without active time reveals measurable impacts of ascribing intrinsic agency to time. The simulation results align with ATH's predictions, showing increased entanglement, uncertainty, and complexity arising from time's simulated abilities.
 
 **Conclusions**: This work establishes a rigorous pathway to test ATH against quantum systems. While further research is needed, the initial simulations lend credence to ATH's proposed mechanisms. By exploring unconventional notions of temporal agency, ATH drives physics towards deeper insights into time's role in quantum and cosmological phenomena.
+
 
 ## 1. Introduction
 
